@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/351c45a4f32f44ece268f4476d8aa3276761bbe5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50a043edb30fcf437cdae797f81755260d1f6ac3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/801ca5d71f5972a0164d94be71644c6698e5d897/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b14b597ee68705ca5f49f418480dfff621d7d49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-4/3f5f1498bdbb9611cb1413f794b3a3a5a6edef34/kotlin-stdlib-1.1.2-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.2-4_044cf16a23d38630d1f597e775908e1871b2f2e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/d9c2191f2f118c743c5d8b63b9269fe2c38386fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d433857cb034f7b515864079cd6bf2578b0cb445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/45a1c0b0ce724b99f69192b4cba514971ee3a0ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b00f445d93ad4a7400e3d8d4432ae41e34392cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/e4005a89073cd326181867ae7ed3dafdbf35badd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bafd19ee598fcf7a9d8087dbc04772453e3cb9d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_981e4f68f7d350d321777b8dd8c4fc3cf1753c00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/684f3b099b83960c1d659b884363f2b457ce3756/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_6bac35a4ced47685be9d5d1bf7f389d3faa7f771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/47597fa1a7c935e05c9898247de326b64ba1cc9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03d8a63433b2956bc9a6a19fc83c6af32bfdb074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/684f3b099b83960c1d659b884363f2b457ce3756/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee988938695f905abc72ea3016f5a13dd265d2ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.2-4/e6a7403299b8f3126e3a1576c02e3f07ae5af6fa/kotlin-stdlib-jre7-1.1.2-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6a7403299b8f3126e3a1576c02e3f07ae5af6fa">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.2-4_a5e1993e0407d3e103890c3f95ba93817a2424ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_9ff7ac4ded20cbe31ab84e41d089bda7a34ff372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/.android/build-cache/d9daa1a1eb49c08ec85629667d70a3be12a8e8db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_368b08d7604e25c97563aaed3599fa3e2410e973/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd4357ad2281c50885ecd2e50cb9bbc7cc5550f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c938be808e5a51fa106eb6e777937bf413a3cbc8">
+        <dex dex="/home/ruben/AndroidStudioProjects/DomoMeteo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ff6e4841665f4887bed7274b607c0aa0529e29b/classes.dex" />
+    </item>
+
+</items>
