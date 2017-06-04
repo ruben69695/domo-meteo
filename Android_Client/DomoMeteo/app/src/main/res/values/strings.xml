@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Domo_Meteo</string>
+    <string name="descrMenu">Elija una opción del menú</string>
+    <string name="updateInfo">Actualizando información</string>
+    <string name="loginToolbar">Inicio de sesión</string>
+    <string name="userName">Nombre de usuario</string>
+    <string name="passWord">Contraseña</string>
+    <string name="btLogIn">Iniciar</string>
+    <string name="errorFaltanDatos">Error, faltan datos por introducir</string>
+    <string name="iniciandoLogin">Iniciando sesión...</string>
+    <string name="userNotEnabled">El usuario esta desactivado</string>
+    <string name="incorrectPassword">Contraseña incorrecta</string>
+    <string name="usernameNotExist">El usuario no existe</string>
+    <string name="btn_link_to_register">No eres miembro? Regístrate ahora.</string>
+    <string name="registerToolbar">Regístrate Ahora</string>
+    <string name="confirmPassword">Confirmar contraseña</string>
+    <string name="btRegister">Registrarse</string>
+    <string name="btn_link_to_login">Ya eres miembro? Pues inicia sesión.</string>
+    <string name="RegistroOK">Registrado, a la espera de que te habilite un administrador</string>
+    <string name="passwordNoCoincide">Las contraseñas no coinciden</string>
+    <string name="mensajeCargaRegistro">Registrando...</string>
+    <string name="errorAlRegistrar">Error al registrar el usuario</string>
+    <string name="errorUsuarioYaExiste">Error, el usuario ya existe</string>
+    <string name="noHayConexionServidor">Error: No puede conectar con el servidor</string>
+</resources>
